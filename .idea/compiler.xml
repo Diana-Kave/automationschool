@@ -9,8 +9,8 @@
         <module name="automationschool" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="automationschool" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="automationschool" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
